@@ -11,7 +11,6 @@
   inputs.src-gnuplot-master.ref   = "refs/heads/master";
   inputs.src-gnuplot-master.owner = "dvolk";
   inputs.src-gnuplot-master.repo  = "gnuplot.nim";
-  inputs.src-gnuplot-master.dir   = "";
   inputs.src-gnuplot-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
