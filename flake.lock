@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1653696376,
-        "narHash": "sha256-JmOFyjc5oIGHhUZOa0u4D/Cq5rx38WrDLIX6KlmRozM=",
+        "lastModified": 1653701909,
+        "narHash": "sha256-5JCmd1U5bkGVHcWZxKv6GKgbA6fE8jv6Uns4sEpQlr4=",
         "owner": "nim-nix-pkgs",
         "repo": "gnuplot",
-        "rev": "0d9b888017821612d4a7b51c5059d09f2423fc48",
+        "rev": "0b6270e1576321c053bcb9a8e538f14439351306",
         "type": "github"
       },
       "original": {
@@ -50,8 +50,9 @@
     },
     "nixpkgs": {
       "locked": {
-        "narHash": "sha256-7sWpWRO0IsBP5jm9qCrpuzDkWC7UAghiCmZZ+1uqHKo=",
-        "path": "/nix/store/q2jrkx5a3z6yxzbfai0kxpnqki80jm3l-source",
+        "lastModified": 0,
+        "narHash": "sha256-BBeCZwZImtjP3oYy4WogkQYy5OxNyfNciVSc1AfZgLQ=",
+        "path": "/nix/store/z8fi1f38y14lmsyhnph1l98qr3r9x7wr-source",
         "type": "path"
       },
       "original": {
