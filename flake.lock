@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1656297757,
-        "narHash": "sha256-rV2qLQVVRLXSUJr5ZJ/dqRT1gOZxm8Htpk/FULSg8O0=",
+        "lastModified": 1656300926,
+        "narHash": "sha256-W+qOq/aDu2ZLvTIbmclmAc3aWdhN6RZ9wv1TeDfzPpk=",
         "owner": "nim-nix-pkgs",
         "repo": "gnuplot",
-        "rev": "5c4cecd0a37a18609d913d6e1ac2ede557c678ff",
+        "rev": "b08b2cd7fc0568409fe84b687c19ec45b4fdb3fb",
         "type": "github"
       },
       "original": {
